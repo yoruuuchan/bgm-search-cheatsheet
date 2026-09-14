@@ -13,11 +13,11 @@ corporate  + hopeful + ambient    → 宣传片 · 有希望感 · 氛围垫
 epic       + rising  + orchestral → 大场面 · 情绪爬升 · 管弦
 ```
 
-先从下面 12 个场景里找到你的视频类型，复制现成搜索串；不对味就去横向词库换零件。全站搜索一律用**英文**。
+先从下面 20 个场景里找到你的视频类型，复制现成搜索串；不对味就去横向词库换零件。全站搜索一律用**英文**。
 
 ---
 
-## 一、12 个视频场景
+## 一、20 个视频场景
 
 ### 1. 采访 / 人物访谈铺底
 
@@ -188,6 +188,118 @@ cozy jazz cafe
 
 - 教程解说建议 lo-fi 而非纯 ambient：一点节拍能撑住节奏又不抢话
 
+### 13. 开箱 / 产品测评
+
+干净、现代、有点酷，但不抢产品风头。
+
+```
+modern product showcase
+minimal pop upbeat
+stylish tech groove
+sleek commercial background
+```
+
+- 测评类音乐的要点是"干净不抢戏"：`minimal` + `pop`/`house` 轻律动最稳
+- 产品特写慢镜头配 `sleek` `stylish` `elegant`，参数罗列段配轻 `tech`
+
+### 14. 美食 / 探店 / 厨房
+
+烟火气或咖啡香，二选一。
+
+```
+cooking food jazz
+bossa nova cafe
+kitchen fun acoustic
+food vlog funky
+```
+
+- 西餐 / 咖啡 / 烘焙认准 **bossa nova** 和 `cafe jazz`；中餐 / 市井烟火用 `playful acoustic` 更对味
+- 快节奏切菜卡点段换 `funky` `swing`，鼓点和刀工对齐
+
+### 15. 时尚 / 美妆 / 高级感
+
+秀场律动，或者留白的高级。
+
+```
+fashion stylish house
+chic lounge groove
+luxury elegant ambient
+catwalk deep house
+```
+
+- **fashion** + **house** 是秀场标配四四拍；`chic` `elegant` 出高级感
+- 高级感的关键是做减法：选 `minimal` `deep`，音符越少越贵
+
+### 16. 婚礼 / 浪漫 / 纪念日
+
+仪式感和眼泪，都要克制。
+
+```
+wedding romantic piano
+love story emotional strings
+romantic acoustic guitar
+first dance ballad
+```
+
+- 仪式环节用 `piano strings` 慢板；first dance 搜 `ballad` `slow dance`
+- 一定加 `instrumental` 排除人声，除非你就是要某首特定的歌
+
+### 17. 游戏 / 电竞 / 直播
+
+从像素怀旧到赛场高光。
+
+```
+gaming energetic electronic
+esports trap hype
+chiptune 8-bit retro game
+synthwave gaming night
+```
+
+- 高能集锦用 `trap` `dubstep`；像素 / 复古游戏内容认准 **chiptune** `8-bit`
+- 长时间直播垫乐回场景 12 的 lo-fi，观众的耳朵会谢你
+
+### 18. 复古 / 80s / 胶片怀旧
+
+两种复古别搞混：霓虹复古未来 vs 真的老。
+
+```
+synthwave retrowave 80s
+retro funk disco
+vintage jazz oldies
+nostalgic tape cassette
+```
+
+- **synthwave / retrowave** 是"80 年代人想象的未来"（霓虹、夜景、赛博）；`vintage` `oldies` 是"真·老歌质感"
+- 胶片 / CCD 画面配带 `tape` `vinyl` 底噪的曲子，质感统一
+
+### 19. 冥想 / 瑜伽 / 助眠
+
+音乐退到几乎不存在，只剩空间。
+
+```
+meditation calm ambient
+yoga peaceful flute
+sleep deep drone
+healing soundscape
+```
+
+- **drone**（持续音）和 **soundscape** 无节拍无旋律，最不打扰
+- 助眠向看时长：10 分钟以上的才实用，曲库筛选器按时长拉
+
+### 20. 恐怖 / 案件解说 / 灵异
+
+吓人很容易，克制才高级。
+
+```
+dark horror tension
+creepy music box
+true crime suspense
+horror drone atmosphere
+```
+
+- **music box**（八音盒）是恐怖反差神器，童声旋律配暗画面头皮发麻
+- 案件解说用 `investigation` `crime` + `pulse`，保持冷静叙述感，别一惊一乍
+
 ---
 
 ## 二、横向词库（换零件用）
@@ -202,6 +314,11 @@ cozy jazz cafe
 | 快乐轻松 | happy, cheerful, playful, fun, carefree |
 | 梦幻空灵 | dreamy, ethereal, floating, atmospheric, ambient |
 | 伤感怀旧 | sad, melancholic, nostalgic, sentimental, bittersweet |
+| 浪漫亲密 | romantic, intimate, love, sensual |
+| 庄严神圣 | solemn, sacred, spiritual, reverent, anthem |
+| 俏皮搞怪 | quirky, whimsical, silly, goofy, mischievous |
+| 自信酷炫 | confident, cool, swagger, attitude, bold |
+| 焦虑不安 | anxious, uneasy, restless, paranoid |
 | 紧张悬疑 | tense, suspenseful, mysterious, dark, ominous |
 | 宏大激昂 | epic, powerful, heroic, triumphant, majestic |
 
@@ -216,10 +333,42 @@ cozy jazz cafe
 | 节拍 | beats, drums, percussion, drum and bass, trap, phonk |
 | 氛围 | ambient, pad, drone, texture, soundscape |
 | 爵士 | jazz, swing, nu jazz, lounge, bossa |
+| 人声 | vocals, choir, humming, a cappella, wordless vocals（无词人声，要人声温度又不抢话时用） |
+| 世界 / 民族 | handpan（手碟）, kalimba（卡林巴）, ethnic, world, oriental |
+| 复古音色 | vinyl, tape, music box（八音盒）, chiptune, harpsichord（羽管键琴） |
+| 铜管 / 爵士乐队 | brass, trumpet, saxophone, big band |
+| 低频 | 808, sub bass, deep bass |
+
+### 流派词（回报率最高的一类标签）
+
+场景词是"我猜你要干嘛"，流派词是"这就是这个声音"——心里已有目标听感时，直接搜流派 + 情绪，命中率最高：
+
+| 流派词 | 听感 | 典型场景 |
+|---|---|---|
+| lofi hip hop | 磁噪、松弛、微丧 | 学习陪伴、教程、直播垫乐 |
+| synthwave / retrowave | 80s 霓虹复古未来 | 科技、夜驾、复古内容 |
+| phonk | 暗、漂移感、牛铃 | FPV、汽车、硬核卡点 |
+| future bass | 明亮电子流行 | 产品发布、年轻向内容 |
+| house / deep house | 四四拍律动、时髦 | 时尚、派对、高级感 |
+| drum and bass | 快速碎拍 | 运动、高能剪辑 |
+| trap | 重 808、暗、拽 | 潮流、运动、电竞 |
+| dubstep | 重型贝斯爆发 | 卡点、预告片 |
+| nu jazz / jazz hop | 爵士采样 + 节拍 | 探店、都市夜景 |
+| bossa nova | 慵懒南美 | 美食、咖啡、烘焙 |
+| swing / big band | 老派爵士大乐队 | 喜剧、复古、花絮 |
+| neo-classical | 现代古典钢琴弦乐 | 情感、艺术片、婚礼 |
+| post-rock | 后摇，安静堆到爆发 | 励志、纪录片高潮 |
+| cinematic / film score | 电影配乐 | 预告、叙事、史诗 |
+| ambient / drone | 无节拍氛围 | 冥想、铺底、科幻 |
+| chiptune / 8-bit | 红白机音色 | 游戏、像素、复古 |
+| funk / disco | 复古律动 | 花絮、时尚、喜剧 |
+| gospel / choir | 圣咏人声 | 庄严、升华、结尾 |
+| folk / americana | 木吉他草根感 | 旅行、户外、乡村 |
+| reggaeton / latin | 拉丁律动 | 派对、海滩、舞蹈 |
 
 ### 能量 / 节奏词
 
-`slow` · `mellow` · `laid back` · `mid-tempo` · `groovy` · `driving` · `energetic` · `intense` · `building`（渐强）· `rising`（爬升）
+`slow` · `mellow` · `laid back` · `mid-tempo` · `groovy` · `bouncy`（弹跳感）· `driving` · `pulsing`（脉冲）· `energetic` · `intense` · `aggressive` · `hard-hitting` · `hypnotic`（催眠感）· `building`（渐强）· `rising`（爬升）
 
 ### 功能结构词
 
@@ -227,10 +376,15 @@ cozy jazz cafe
 |---|---|
 | underscore | 垫在说话底下的配乐（采访/纪录片必备） |
 | bed | 同上，"音乐床"，播客圈用词 |
+| instrumental / no vocals | 纯音乐无歌词——要铺底先把人声排掉 |
 | loop | 可无缝循环的段落 |
 | sting / stinger | 几秒钟的转场重音 |
+| riser / build up | 情绪爬升段，转场和揭晓前用 |
 | intro / opener | 开场曲 |
+| outro / ending | 收尾曲 |
 | jingle | 短促洗脑的品牌旋律 |
+| 30 seconds / 60 seconds | 广告剪辑短版（曲库常给同一曲的多时长版本） |
+| no drums / light mix | 同一曲的减法分轨版本，垫说话更干净 |
 | no copyright / royalty free | 免版权（搜索时一般不用加，站内默认都是） |
 
 ---
@@ -244,6 +398,9 @@ cozy jazz cafe
 | `background music` | 太宽泛，出来全是口水电子乐 | 场景词 + 情绪词组合 |
 | `interview` | 出来的是播客片头 jingle | `documentary underscore` |
 | `BGM` | 日文圈词汇，欧美曲库没这个标签 | 任意场景词 |
+| `trending` / `viral` | 追的是流量不是质感，出来全是短视频口水 | 流派词 + 情绪词 |
+| `chinese` / `oriental`（想要国风时） | 免费曲库的国风标签量少，且多为刻板民乐小调，国潮嘻哈/新中式基本没有 | 民乐需求换国内素材站；只要"东方氛围"可用 `asian ambient` 凑合 |
+| 直接搜歌名 / 歌手名 | 免费曲库没有主流版权曲，出来的都是蹭名仿作 | 用流派 + 情绪找平替 |
 | `sad emotional epic` 堆太多情绪 | 词越多命中越乱，2–3 个词最准 | 精简到 场景+情绪+质感 各一个 |
 | 中文关键词 | 免费曲库中文标签几乎为零 | 全英文 |
 
@@ -259,6 +416,7 @@ cozy jazz cafe
 4. **看清 AI generated 标签**：曲库里大量曲子已是 AI 批量生成（会标注），质量参差，试听时留意结构是否单调
 5. **铺底试听 30 秒法**：拖到中段听 10 秒 → 想象人声压上去打不打架 → 再快速拖两次听有没有突然的动态爆发。三关都过才收
 6. **商用注意**：Pixabay Content License 可免费商用无需署名，但注意个别曲子标注 Content ID Registered——发 YouTube 可能触发版权匹配申诉流程，国内平台无碍
+7. **一曲多版本**：不少曲子附 loop 版、30s 版、no drums 版，详情页或作者页里找——铺底卡时长时比硬剪干净得多
 
 ### 常用免费曲库
 
