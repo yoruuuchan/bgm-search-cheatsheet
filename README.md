@@ -435,3 +435,5 @@ horror drone atmosphere
 ---
 
 已验证曲库清单见 [LIBRARY.md](LIBRARY.md)——每个项目最终选用的曲子都会登记在册（文件本体存本地，此处只记链接与体检数据，遵守 Pixabay 许可不再分发素材）。
+
+仓库维护约定与技能库的关系见 [SOURCE.md](SOURCE.md)。

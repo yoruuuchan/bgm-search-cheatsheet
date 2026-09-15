@@ -2,7 +2,7 @@
 # Runs daily via Windows Task Scheduler (task: "BGM Catalog Sync"). PowerShell 5.1 compatible.
 $ErrorActionPreference = 'Stop'
 $LibRoot = 'E:\BGM库'
-$RepoDir = 'D:\bgm-search-cheatsheet'
+$RepoDir = $PSScriptRoot
 $Catalog = Join-Path $RepoDir 'CATALOG.md'
 $LogFile = Join-Path $env:LOCALAPPDATA 'bgm-catalog-sync.log'
 
