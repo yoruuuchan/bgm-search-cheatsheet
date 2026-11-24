@@ -3,6 +3,12 @@
 > 免费曲库（Pixabay / Mixkit / YouTube Audio Library 等）的搜索黑话对照表。
 > 核心原则：**曲库标签标的是"感觉"，不是"用途"**。搜 `background music` 出来的是电子垃圾，搜 `soft ambient underscore` 出来的才是能用的铺底。
 
+![BGM 搜索公式：场景词 + 情绪词 + 质感词](assets/bgm-formula-card.png)
+
+**一页纸速查：** [A4 PNG](assets/bgm-cheatsheet-a4.png) · [A4 PDF](assets/bgm-cheatsheet-a4.pdf)（20 个场景 + 词库 + 避坑）
+
+**目录：** [怎么用](#怎么用这张表) · [20 个场景](#一20-个视频场景) · [横向词库](#二横向词库换零件用) · [避坑](#三避坑黑名单) · [平台技巧](#四平台技巧)
+
 ## 怎么用这张表
 
 搜索串 = **场景词 + 情绪词 + 质感词**，三段拼积木：
